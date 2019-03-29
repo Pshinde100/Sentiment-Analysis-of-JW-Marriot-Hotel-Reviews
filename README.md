@@ -1,2 +1,6 @@
-# Walmart-Sales-Forecasting-Using-Regression-Analysis-
-Walmart dataset has sales data for 98 products across 45 outlets. The dataset contains sales per store, per department on weekly basis. The goal of this project is to forecast sales for each department in each outlet to help them make better data driven decisions for channel optimization and inventory planning.
+# Sentiment-Analysis-of-JW-Marriot-Hotel-Reviews
+
+plemented a web scraper to fetch live hotel reviews from TripAdvisor website.
+Conducted data pre-processing and cleaning by removing stop words, punctuation, special characters, numbers, and white-spaces from reviews.
+Performed tokenization and stemming of reviews, and built a corpus out of it.
+Calculated the sentiment score of each review by comparing it's tokens with positive and negative lexicon and the overall sentiment score of the hotel depending on the number of positive and negative reviews it received.
